@@ -7,3 +7,5 @@ Um projeto do curso de lógica de programação da __Alura__, no curso de nivela
 ~~~~
 git log > log.txt
 ~~~~
+
+![Print de exemplo visual do projeto - Número secreto da Alura](https://github.com/flanubit/alura-numero-secreto/blob/main/Captura%20de%20tela%202025-11-13%20183815.png)
